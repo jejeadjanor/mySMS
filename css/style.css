@@ -1,0 +1,41 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.parent-container{
+    margin: 40px;
+    background: rgb(164, 228, 120);
+    min-height: 550px;
+}
+.sms-container{
+    position: absolute;
+    top: 110px;
+    left: 70px;
+    min-height: 300px;
+    width: 80%;
+    background: white;
+}
+.button-style{
+    position: absolute;
+    top: 450px;
+    left: 70px;
+    border-radius: 3px;
+    background-color: rgb(16, 31, 7);
+    padding: 10px;
+    color: white;
+}
+.number-container{
+    position: absolute;
+    top: 50px;
+    left:70px;
+    height: 40px;
+    width: 80%;
+
+}
+.messagecharge{
+    position: absolute;
+    top: 490px;
+    left: 70px;
+    height: 60px;
+    color: black;
+}
